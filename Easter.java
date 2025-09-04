@@ -3,6 +3,9 @@
 public class Easter{
     public static void main(String[] args) {
         //code goes here
+        int y =2025;
+        int a = y % 19;
+        System.out.println("a = "+a);
     }
 
 }
